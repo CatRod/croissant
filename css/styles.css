@@ -6,11 +6,9 @@ body {
 h1 {
   text-align: center;
 }
-p {
-  text-align: center;
-}
+
 a {
-  color: rgb(58, 58, 58);
+  color: #b24f00;
   text-decoration: none;
   margin-left: 10px;
   margin-right: 10px;
@@ -21,4 +19,8 @@ a:hover {
 
 .links {
   text-align: center;
+}
+.email {
+  margin: auto;
+  color: #b24f00;
 }
